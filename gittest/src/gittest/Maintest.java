@@ -4,7 +4,8 @@ public class Maintest {
 
     public static void main(String[] args) {
         // TODO Auto-generated method stub
-        System.err.println(123);
+        System.err.println(1234);
+        System.out.println(123);
     }
 
 }
